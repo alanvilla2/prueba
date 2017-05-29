@@ -1,0 +1,16 @@
+h1
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+}
+
+img{
+    margin: 3px;
+    width: 100px;
+    border: 5px dotted navy;
+}
+
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
