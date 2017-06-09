@@ -1,0 +1,143 @@
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400; 
+ 
+}
+
+#button {
+padding: 0;
+} 
+
+#button li {
+display: inline;
+float: center!important;
+}
+a{
+  color:#0000CC!important;
+}
+u{
+  color:#CC99FF;
+}
+#button li {
+font-family: 'Times New Roman', Times, serif;
+font-size:20px;
+text-decoration: inherit;
+float:center!important;
+padding: 10px;
+opacity: 0.5;
+background-color:#FF6699;
+color:#00FF00;
+}
+
+table{
+  font-size: 18px;
+}
+
+header {
+  padding: 20px 0;
+}
+
+.color
+row{
+text-align: center!important;
+}
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
+}
+
+h1{
+font-size: 50px !important;
+}
+header h1 {
+  float: center!important;
+  font-weight: 700;
+  margin: 0;
+  font-size: 60px;
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+header p {
+  padding: 0 20px;
+  margin: 0;
+}
+
+.jumbotron {
+  display flex;
+  align-items: ruby-text-container;
+  background-image: url('foto10.jpg');
+  background-size: cover;
+  color: #fff;
+  height: 800px;
+  text-shadow: 0.30px 0.30px 0.30px #000000;
+}
+
+.jumbotron h2 {
+  font-size: 60px;
+  font-weight: 1000;
+  margin: 0;
+  color: #FF6699;
+}
+
+.jumbotron h3 {
+  margin: 0 0 20px;
+  font-size: 30px;
+  color:#CC99FF;
+}
+
+section .row img {
+  margin: 0 0 30px;
+  width: 100%;
+}
+
+.col-md-6 {
+  margin: 0 0 30px;
+}
+
+.btn.btn-primary {
+  float: center!important;
+  font-size: 30px !important;
+  border-radius: 2px;
+  border: 0px;
+  color: #C7E1EF;
+  text-shadow: none;
+  background-color: #ffffff;
+}
+
+
+.btn.btn-primary:hover {
+  color: #ffffff;
+  background-color: #C1DFED;
+}
+
+.btn-secondary {
+  background-color: #E8DFE0;
+  color: #ffffff;
+  margin: 0 0 30px;
+}
+
+footer {
+  font-size: 12px;
+  padding: 20px 0;
+}
+
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer li img {
+  width: 40px;
+  height: 40px;
+}
+
